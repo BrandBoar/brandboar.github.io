@@ -27,6 +27,7 @@ div.banner {
     height: 75px;
     /*background: #0e1112;*/
     background: #000000;
+    box-shadow: 0px 3px 3px #757575;
 }
 div.brandable {
     position: absolute;
