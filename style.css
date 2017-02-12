@@ -26,7 +26,7 @@ div.banner {
     width: 100%;
     height: 75px;
     /*background: #0e1112;*/
-    background: #000000;
+    background: #212121;
     box-shadow: 0px 3px 3px #757575;
 }
 div.brandable {
@@ -108,7 +108,7 @@ div.premium2 {
     width: 40%;
     /* height: 125px; */
     border-radius: 5px;
-    background: #3f51b5;
+    background: #fa4d2c;
     margin: 0 auto;
     color: #ffffff;
     font-size: 24px;
@@ -164,7 +164,7 @@ table.premium {
     background: #F7F7F7;
 }
 .form-style-6 h1{
-    background: #3f51b5;
+    background: #fa4d2c;
     padding: 20px 0;
     font-size: 140%;
     font-weight: 300;
@@ -211,9 +211,9 @@ table.premium {
 .form-style-6 textarea:focus,
 .form-style-6 select:focus
 {
-    box-shadow: 0 0 5px #3f51b5;
+    box-shadow: 0 0 5px #fa4d2c;
     padding: 3%;
-    border: 1px solid #3f51b5;
+    border: 1px solid #fa4d2c;
 }
 
 .form-style-6 input[type="submit"],
@@ -223,7 +223,7 @@ table.premium {
     -moz-box-sizing: border-box;
     width: 100%;
     padding: 3%;
-    background: #3f51b5;
+    background: #fa4d2c;
     border-bottom: 2px solid #a2a5a4;
     border-top-style: none;
     border-right-style: none;
@@ -232,5 +232,5 @@ table.premium {
 }
 .form-style-6 input[type="submit"]:hover,
 .form-style-6 input[type="button"]:hover{
-    background: #9fa8da;
+    background: #f7a396;
 }
