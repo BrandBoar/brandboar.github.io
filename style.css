@@ -1,5 +1,5 @@
 body {
-    background-color: #616161;
+    background-color: #fdfdfd;
     font-family: 'Roboto', sans-serif;
     text-align: center;
 }
@@ -16,7 +16,7 @@ a.portfolio {
 a.site {
     text-decoration: none;
     font-weight: bold;
-    color: #ffffff;
+    color: #212121;
 }
 div.banner {
     z-index: 10;
@@ -25,7 +25,8 @@ div.banner {
     left: 0;
     width: 100%;
     height: 75px;
-    background: #0e1112;
+    /*background: #0e1112;*/
+    background: #000000;
 }
 div.brandable {
     position: absolute;
@@ -42,13 +43,13 @@ div.copyright {
     width: 960px;
     margin: 0 auto;
     font-size: 12px;
-    color: #ffffff;
+    color: #212121;
     text-align: center;
 }
 div.description {
     position: relative;
     width: 100%;
-    height: 100px;
+    height: 130px;
     line-height: 100px;
     font-size: 28px;
 }
@@ -90,7 +91,7 @@ div.main {
     width: 960px;
     margin: 0 auto;
     font-size: 18px;
-    color: #ffffff;
+    color: #212121;
 }
 div.premium {
     position: relative;
@@ -106,7 +107,7 @@ div.premium2 {
     width: 40%;
     /* height: 125px; */
     border-radius: 5px;
-    background: #e64a19;
+    background: #3f51b5;
     margin: 0 auto;
     color: #ffffff;
     font-size: 24px;
@@ -138,7 +139,7 @@ div.topright {
     right: 0;
     width: 400px;
     font-size: 16px;
-    line-height: 48px;
+    line-height: 24px;
     color: #ffffff;
     font-weight: bold;
     text-align: right;
@@ -154,14 +155,15 @@ table.premium {
     text-shadow: 1px 1px 1px #9e1b32;
 }
 .form-style-6{
-    font: 95% Arial, Helvetica, sans-serif;
+    /*font: 95% Arial, Helvetica, sans-serif;*/
+    font-family: 'Roboto', sans-serif;
     max-width: 400px;
     margin: 10px auto;
     padding: 16px;
     background: #F7F7F7;
 }
 .form-style-6 h1{
-    background: #e64a19;
+    background: #3f51b5;
     padding: 20px 0;
     font-size: 140%;
     font-weight: 300;
@@ -194,7 +196,8 @@ table.premium {
     border: 1px solid #ccc;
     padding: 3%;
     color: #555;
-    font: 95% Arial, Helvetica, sans-serif;
+    /*font: 95% Arial, Helvetica, sans-serif;*/
+    font-family: 'Roboto', sans-serif;
 }
 .form-style-6 input[type="text"]:focus,
 .form-style-6 input[type="date"]:focus,
@@ -207,9 +210,9 @@ table.premium {
 .form-style-6 textarea:focus,
 .form-style-6 select:focus
 {
-    box-shadow: 0 0 5px #e64a19;
+    box-shadow: 0 0 5px #3f51b5;
     padding: 3%;
-    border: 1px solid #e64a19;
+    border: 1px solid #3f51b5;
 }
 
 .form-style-6 input[type="submit"],
@@ -219,7 +222,7 @@ table.premium {
     -moz-box-sizing: border-box;
     width: 100%;
     padding: 3%;
-    background: #e64a19;
+    background: #3f51b5;
     border-bottom: 2px solid #a2a5a4;
     border-top-style: none;
     border-right-style: none;
@@ -228,5 +231,5 @@ table.premium {
 }
 .form-style-6 input[type="submit"]:hover,
 .form-style-6 input[type="button"]:hover{
-    background: #616161;
+    background: #9fa8da;
 }
