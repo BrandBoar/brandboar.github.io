@@ -43,7 +43,7 @@ div.copyright {
     position: relative;
     width: 960px;
     margin: 0 auto;
-    font-size: 12px;
+    font-size: 14px;
     color: #212121;
     text-align: center;
 }
@@ -51,7 +51,7 @@ div.description {
     position: relative;
     width: 100%;
     height: 130px;
-    line-height: 100px;
+    line-height: 80px;
     font-size: 32px;
 }
 div.gg {
